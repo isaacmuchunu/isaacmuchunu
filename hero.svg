@@ -1,0 +1,111 @@
+<svg width="1400" height="520" viewBox="0 0 1400 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="520" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#080A0F"/>
+    <stop offset="0.55" stop-color="#0D1118"/>
+    <stop offset="1" stop-color="#10151F"/>
+  </linearGradient>
+  <radialGradient id="mintGlow" cx="0" cy="0" r="1" gradientTransform="translate(1240 130) rotate(137.5) scale(420 360)">
+    <stop stop-color="#65E7C8" stop-opacity=".22"/>
+    <stop offset="1" stop-color="#65E7C8" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="violetGlow" cx="0" cy="0" r="1" gradientTransform="translate(990 430) rotate(-135) scale(420 350)">
+    <stop stop-color="#8B7CFF" stop-opacity=".17"/>
+    <stop offset="1" stop-color="#8B7CFF" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="nameGrad" x1="100" y1="140" x2="760" y2="300">
+    <stop stop-color="#F8FAFC"/>
+    <stop offset=".68" stop-color="#E7EAEE"/>
+    <stop offset="1" stop-color="#8B7CFF"/>
+  </linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity=".028"/>
+  </pattern>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="18" stdDeviation="28" flood-color="#000000" flood-opacity=".35"/>
+  </filter>
+</defs>
+
+<rect width="1400" height="520" rx="28" fill="url(#bg)"/>
+<rect width="1400" height="520" rx="28" fill="url(#grid)"/>
+<rect width="1400" height="520" rx="28" fill="url(#mintGlow)"/>
+<rect width="1400" height="520" rx="28" fill="url(#violetGlow)"/>
+<rect x=".5" y=".5" width="1399" height="519" rx="27.5" stroke="#FFFFFF" stroke-opacity=".08"/>
+
+<!-- left -->
+<circle cx="103" cy="84" r="5" fill="#65E7C8"/>
+<circle cx="103" cy="84" r="13" stroke="#65E7C8" stroke-opacity=".2"/>
+<text x="126" y="89" fill="#A4ACB8" font-family="monospace" font-size="16" letter-spacing="1.4">AVAILABLE FOR AMBITIOUS ENGINEERING WORK</text>
+
+<text x="92" y="196" fill="url(#nameGrad)" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="92" letter-spacing="-5">Isaac</text>
+<text x="92" y="284" fill="url(#nameGrad)" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="92" letter-spacing="-5">Muchunu.</text>
+
+<text x="96" y="340" fill="#AEB6C4" font-family="Arial, Helvetica, sans-serif" font-size="24">
+  Full-stack engineer building intelligent, secure and
+</text>
+<text x="96" y="373" fill="#AEB6C4" font-family="Arial, Helvetica, sans-serif" font-size="24">
+  high-impact systems across AI, cybersecurity and healthcare.
+</text>
+
+<!-- pills -->
+<g font-family="monospace" font-size="14" fill="#B7C0CE">
+  <rect x="96" y="417" width="122" height="38" rx="19" fill="#FFFFFF" fill-opacity=".035" stroke="#FFFFFF" stroke-opacity=".08"/>
+  <text x="123" y="441">TypeScript</text>
+
+  <rect x="228" y="417" width="98" height="38" rx="19" fill="#FFFFFF" fill-opacity=".035" stroke="#FFFFFF" stroke-opacity=".08"/>
+  <text x="256" y="441">Python</text>
+
+  <rect x="336" y="417" width="104" height="38" rx="19" fill="#FFFFFF" fill-opacity=".035" stroke="#FFFFFF" stroke-opacity=".08"/>
+  <text x="363" y="441">AI / ML</text>
+
+  <rect x="450" y="417" width="146" height="38" rx="19" fill="#FFFFFF" fill-opacity=".035" stroke="#FFFFFF" stroke-opacity=".08"/>
+  <text x="474" y="441">Cybersecurity</text>
+</g>
+
+<!-- terminal -->
+<g filter="url(#shadow)">
+  <rect x="860" y="78" width="430" height="360" rx="20" fill="#111722" stroke="#FFFFFF" stroke-opacity=".12"/>
+  <rect x="860" y="78" width="430" height="48" rx="20" fill="#141B27"/>
+  <path d="M860 106H1290" stroke="#FFFFFF" stroke-opacity=".07"/>
+  <circle cx="886" cy="102" r="4" fill="#56606E"/>
+  <circle cx="902" cy="102" r="4" fill="#56606E"/>
+  <circle cx="918" cy="102" r="4" fill="#56606E"/>
+  <text x="1035" y="107" fill="#747E8D" font-family="monospace" font-size="11">isaac@engineering:~</text>
+
+  <g font-family="monospace" font-size="14">
+    <text x="888" y="160" fill="#7E8795">01</text>
+    <text x="925" y="160" fill="#8B7CFF">const</text>
+    <text x="971" y="160" fill="#E8ECF2"> engineer = </text>
+    <text x="1068" y="160" fill="#65E7C8">"Isaac Muchunu"</text>
+
+    <text x="888" y="193" fill="#7E8795">02</text>
+    <text x="925" y="193" fill="#8B7CFF">const</text>
+    <text x="971" y="193" fill="#E8ECF2"> focus = [</text>
+
+    <text x="888" y="226" fill="#7E8795">03</text>
+    <text x="947" y="226" fill="#65E7C8">"full-stack systems",</text>
+
+    <text x="888" y="259" fill="#7E8795">04</text>
+    <text x="947" y="259" fill="#65E7C8">"artificial intelligence",</text>
+
+    <text x="888" y="292" fill="#7E8795">05</text>
+    <text x="947" y="292" fill="#65E7C8">"cybersecurity",</text>
+
+    <text x="888" y="325" fill="#7E8795">06</text>
+    <text x="947" y="325" fill="#65E7C8">"healthcare technology"</text>
+
+    <text x="888" y="358" fill="#7E8795">07</text>
+    <text x="925" y="358" fill="#E8ECF2">];</text>
+  </g>
+
+  <path d="M888 382H1262" stroke="#FFFFFF" stroke-opacity=".07"/>
+
+  <g font-family="monospace" font-size="12">
+    <text x="888" y="409" fill="#9CA6B6">architecture</text>
+    <text x="1214" y="409" fill="#65E7C8">ready</text>
+
+    <text x="888" y="431" fill="#9CA6B6">security posture</text>
+    <text x="1198" y="431" fill="#65E7C8">hardened</text>
+  </g>
+</g>
+</svg>

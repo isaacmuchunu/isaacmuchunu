@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Isaac Muchunu — Full-Stack Engineer, AI Systems, Cybersecurity and Healthcare Technology" width="100%" />
+  <img src="./hero.svg" alt="Isaac Muchunu — Full-Stack Engineer, AI Systems, Cybersecurity and Healthcare Technology" width="100%" />
 </p>
 
 <p align="center">
@@ -104,7 +104,7 @@ Reliable environments, repeatable delivery, and production-minded engineering.
 <br>
 
 <p align="center">
-  <img src="./assets/projects.svg" alt="Selected work — Software built for real-world complexity" width="100%" />
+  <img src="./projects.svg" alt="Selected work — Software built for real-world complexity" width="100%" />
 </p>
 
 <br>

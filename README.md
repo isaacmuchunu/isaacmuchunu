@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/GitHub-isaacmuchunu-111827?style=flat-square&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/isaac-muchunu-87995311b">
+  <a href="https://linkedin.com/in/isaac-muchunu-87995211b">
     <img src="https://img.shields.io/badge/LinkedIn-Isaac%20Muchunu-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
@@ -24,7 +24,7 @@
 
 ## I build systems, not just features.
 
-I’m a full-stack engineer working across **software architecture, AI, cybersecurity, healthcare technology, and infrastructure**.
+I'm a full-stack engineer working across **software architecture, AI, cybersecurity, healthcare technology, and infrastructure**.
 
 I care about the whole system: how it feels to use, how data moves, how services communicate, where trust boundaries sit, what happens when things fail, and how the product behaves in production.
 
@@ -37,8 +37,8 @@ My best work sits at the intersection of **useful software + strong engineering 
 
 |  |  |
 |---|---:|
-| Public repositories | **35+** |
-| Projects shipped | **15+** |
+| Public repositories | **40+** |
+| Projects shipped | **12+** |
 | Years building | **5+** |
 | Core disciplines | **4** |
 
@@ -82,9 +82,9 @@ Turning models into usable products, workflows, and agents.
 
 Designing and testing systems from both defensive and offensive perspectives.
 
-`Wazuh` `Suricata` `pfSense`  
-`Active Directory` `SIEM`  
-`DevSecOps`
+`Purple Team Labs` `SIEM`  
+`Active Directory` `Detection`  
+`DevSecOps` `Penetration Testing`
 
 </td>
 <td width="50%" valign="top">
@@ -117,7 +117,7 @@ Reliable environments, repeatable delivery, and production-minded engineering.
 
 **Healthcare · Python · Real-time systems**
 
-Healthcare coordination and ambulance dispatch platform combining emergency workflows, provider networks, real-time operations, and intelligent automation.
+Production-ready ambulance dispatch and healthcare coordination platform combining emergency workflows, provider networks, real-time operations, and intelligent automation.
 
 **What it demonstrates**
 
@@ -126,15 +126,15 @@ Healthcare coordination and ambulance dispatch platform combining emergency work
 </td>
 <td width="50%" valign="top">
 
-### 002 · [AI Hedge Fund](https://github.com/isaacmuchunu/ai-hedge-fund)
+### 002 · [SaferNET](https://github.com/isaacmuchunu/SaferNET)
 
-**Artificial Intelligence · Multi-Agent Systems**
+**EdTech · PHP · Web Filtering**
 
-An intelligent team of AI agents for financial research, market analysis, and investment reasoning.
+K-12 school web filtering application providing content management, access control, and security monitoring for educational institutions.
 
 **What it demonstrates**
 
-`agent orchestration` `LLMs` `automation` `decision support`
+`security controls` `access management` `enterprise systems` `product engineering`
 
 </td>
 </tr>
@@ -144,13 +144,13 @@ An intelligent team of AI agents for financial research, market analysis, and in
 
 ### 003 · [Lab4PurpleSec](https://github.com/isaacmuchunu/Lab4PurpleSec)
 
-**Cybersecurity · SIEM · Infrastructure**
+**Cybersecurity · Purple Team · SIEM**
 
-Purple Team lab combining vulnerable Active Directory, Docker services, pfSense, Suricata and Wazuh SIEM.
+Modular Purple Team homelab combining vulnerable Active Directory (GOAD), Docker-based web services, pfSense + Suricata, and Wazuh SIEM for realistic training and detection research.
 
 **What it demonstrates**
 
-`defensive engineering` `network security` `SIEM` `attack simulation`
+`defensive engineering` `network security` `SIEM` `attack simulation` `red team tactics`
 
 </td>
 <td width="50%" valign="top">
@@ -164,6 +164,35 @@ Modern agricultural biotechnology platform focused on responsive design, compone
 **What it demonstrates**
 
 `frontend systems` `UI engineering` `responsive design` `product thinking`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 005 · [SafeNET](https://github.com/isaacmuchunu/SafeNET)
+
+**TypeScript · Network Security**
+
+Network monitoring and security orchestration platform with real-time threat detection and automated response capabilities.
+
+**What it demonstrates**
+
+`cybersecurity systems` `real-time processing` `threat detection` `infrastructure automation`
+
+</td>
+<td width="50%" valign="top">
+
+### 006 · [SCFMS](https://github.com/isaacmuchunu/SCFMS)
+
+**C# · Enterprise Systems**
+
+Sub-County File Management System for Kikuyu Sub-County Education Office - structured workflows, approvals, records, and reporting for government operations.
+
+**What it demonstrates**
+
+`enterprise architecture` `government systems` `workflow automation` `data management`
 
 </td>
 </tr>
@@ -209,7 +238,7 @@ Technical sophistication matters most when it improves a real workflow or create
 <table>
 <tr>
 <td><strong>Languages</strong></td>
-<td><code>TypeScript</code> <code>Python</code> <code>JavaScript</code> <code>PHP</code> <code>SQL</code></td>
+<td><code>TypeScript</code> <code>Python</code> <code>JavaScript</code> <code>PHP</code> <code>C#</code> <code>SQL</code></td>
 </tr>
 <tr>
 <td><strong>Frontend</strong></td>
@@ -225,7 +254,7 @@ Technical sophistication matters most when it improves a real workflow or create
 </tr>
 <tr>
 <td><strong>Security</strong></td>
-<td><code>Wazuh</code> <code>Suricata</code> <code>pfSense</code> <code>Active Directory</code> <code>DevSecOps</code></td>
+<td><code>Purple Team Labs</code> <code>Wazuh SIEM</code> <code>Suricata IDS</code> <code>Active Directory</code> <code>DevSecOps</code></td>
 </tr>
 <tr>
 <td><strong>Infrastructure</strong></td>
@@ -235,43 +264,28 @@ Technical sophistication matters most when it improves a real workflow or create
 
 <br>
 
-## 05 / Engineering Activity
+## 05 / GitHub activity
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaacmuchunu&theme=github_dark"
-    width="100%"
-    alt="Isaac Muchunu GitHub activity"
+    src="https://github-readme-stats.vercel.app/api?username=isaacmuchunu&show_icons=true&hide_border=true&bg_color=00000000&title_color=65E7C8&text_color=AEB6C4&icon_color=8B7CFF"
+    width="49%"
+    alt="Isaac Muchunu GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmuchunu&layout=compact&hide_border=true&bg_color=00000000&title_color=65E7C8&text_color=AEB6C4"
+    width="42%"
+    alt="Isaac Muchunu top languages"
   />
 </p>
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-### Languages
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isaacmuchunu&theme=github_dark"
-  width="100%"
-  alt="Languages used across repositories"
-/>
-
-</td>
-
-<td width="50%" align="center">
-
-### Engineering Output
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isaacmuchunu&theme=github_dark"
-  width="100%"
-  alt="GitHub engineering statistics"
-/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=isaacmuchunu&hide_border=true&background=00000000&ring=65E7C8&fire=8B7CFF&currStreakLabel=65E7C8&sideLabels=AEB6C4&dates=747E8D&currStreakNum=F5F7FA"
+    width="92%"
+    alt="GitHub contribution streak"
+  />
+</p>
 
 <br>
 
@@ -305,9 +319,9 @@ curiosity           permanent
 
 ## Have an ambitious problem?
 
-### Let’s build something worth shipping.
+### Let's build something worth shipping.
 
-I’m interested in challenging work involving **full-stack engineering, AI, healthcare technology, cybersecurity, automation, and secure enterprise systems**.
+I'm interested in challenging work involving **full-stack engineering, AI, healthcare technology, cybersecurity, automation, and secure enterprise systems**.
 
 <br>
 
@@ -317,7 +331,7 @@ I’m interested in challenging work involving **full-stack engineering, AI, hea
 
 <br><br>
 
-[GitHub](https://github.com/isaacmuchunu) · [LinkedIn](https://linkedin.com/in/isaac-muchunu-87995311b)
+[GitHub](https://github.com/isaacmuchunu) · [LinkedIn](https://linkedin.com/in/isaac-muchunu-87995211b)
 
 <br>
 

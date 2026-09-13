@@ -235,28 +235,43 @@ Technical sophistication matters most when it improves a real workflow or create
 
 <br>
 
-## 05 / GitHub activity
+## 05 / Engineering Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=isaacmuchunu&show_icons=true&hide_border=true&bg_color=00000000&title_color=65E7C8&text_color=AEB6C4&icon_color=8B7CFF"
-    width="49%"
-    alt="Isaac Muchunu GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmuchunu&layout=compact&hide_border=true&bg_color=00000000&title_color=65E7C8&text_color=AEB6C4"
-    width="42%"
-    alt="Isaac Muchunu top languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaacmuchunu&theme=github_dark"
+    width="100%"
+    alt="Isaac Muchunu GitHub activity"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=isaacmuchunu&hide_border=true&background=00000000&ring=65E7C8&fire=8B7CFF&currStreakLabel=65E7C8&sideLabels=AEB6C4&dates=747E8D&currStreakNum=F5F7FA&sideNums=F5F7FA"
-    width="92%"
-    alt="GitHub contribution streak"
-  />
-</p>
+<table>
+<tr>
+<td width="50%" align="center">
+
+### Languages
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isaacmuchunu&theme=github_dark"
+  width="100%"
+  alt="Languages used across repositories"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+### Engineering Output
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isaacmuchunu&theme=github_dark"
+  width="100%"
+  alt="GitHub engineering statistics"
+/>
+
+</td>
+</tr>
+</table>
 
 <br>
 

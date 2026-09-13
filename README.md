@@ -142,15 +142,15 @@ K-12 school web filtering application providing content management, access contr
 <tr>
 <td width="50%" valign="top">
 
-### 003 · [Lab4PurpleSec](https://github.com/isaacmuchunu/Lab4PurpleSec)
+### 003 · [SafeNET](https://github.com/isaacmuchunu/SafeNET)
 
-**Cybersecurity · Purple Team · SIEM**
+**TypeScript · Network Security**
 
-Modular Purple Team homelab combining vulnerable Active Directory (GOAD), Docker-based web services, pfSense + Suricata, and Wazuh SIEM for realistic training and detection research.
+Network monitoring and security orchestration platform with real-time threat detection and automated response capabilities.
 
 **What it demonstrates**
 
-`defensive engineering` `network security` `SIEM` `attack simulation` `red team tactics`
+`cybersecurity systems` `real-time processing` `threat detection` `infrastructure automation`
 
 </td>
 <td width="50%" valign="top">
@@ -171,20 +171,7 @@ Modern agricultural biotechnology platform focused on responsive design, compone
 <tr>
 <td width="50%" valign="top">
 
-### 005 · [SafeNET](https://github.com/isaacmuchunu/SafeNET)
-
-**TypeScript · Network Security**
-
-Network monitoring and security orchestration platform with real-time threat detection and automated response capabilities.
-
-**What it demonstrates**
-
-`cybersecurity systems` `real-time processing` `threat detection` `infrastructure automation`
-
-</td>
-<td width="50%" valign="top">
-
-### 006 · [SCFMS](https://github.com/isaacmuchunu/SCFMS)
+### 005 · [SCFMS](https://github.com/isaacmuchunu/SCFMS)
 
 **C# · Enterprise Systems**
 
@@ -193,6 +180,19 @@ Sub-County File Management System for Kikuyu Sub-County Education Office - struc
 **What it demonstrates**
 
 `enterprise architecture` `government systems` `workflow automation` `data management`
+
+</td>
+<td width="50%" valign="top">
+
+### 006 · [public-participate](https://github.com/isaacmuchunu/public-participate)
+
+**Vue · Civic Tech**
+
+Kenyan Public Participation Platform for the National Assembly & Senate enabling citizen engagement in legislative processes.
+
+**What it demonstrates**
+
+`civic technology` `public sector systems` `Vue frontend` `democratic engagement`
 
 </td>
 </tr>
